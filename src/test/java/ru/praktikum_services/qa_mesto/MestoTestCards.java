@@ -39,9 +39,10 @@ public class MestoTestCards {
         homePage
                 .getCardText(15);
     }
-
 //    @After
 //    public void logOut() {
 //        homePage.logOut();
+//    closeWebDriver();
 //    }
+//
 }
